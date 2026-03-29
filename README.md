@@ -57,3 +57,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# laravel-random-personal-training
+My Laravel Personal Training : base -> queue/job, event/listener, command, and scheduler training. it might update in the future with different branch my other personal training
